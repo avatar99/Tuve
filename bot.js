@@ -179,4 +179,4 @@ client.on("message", message => { //clear
 
 
 
-client.login('NjAwMDU0OTA0MzQ1NzIyOTQz.XSuKzQ.gJ_BOXZrJ8azmr0UYwiD3jdhZ0E');
+client.login("NjAwMDU0OTA0MzQ1NzIyOTQz.XSuKzQ.gJ_BOXZrJ8azmr0UYwiD3jdhZ0E";
